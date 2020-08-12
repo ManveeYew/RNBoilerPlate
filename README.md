@@ -1,6 +1,6 @@
-# SCFilmMobileChallenge
+# RNBoilerPlate
 
-Built for **SC Mobile challenge**<br />
+Built for **Project Challenge**<br />
 
 - Redux integration
 - Redux Saga Integration
